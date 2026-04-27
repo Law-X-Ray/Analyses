@@ -1,7 +1,44 @@
 # Structural reproducibility
+Date: 27.04.2026  
+Law: Lieferkettensorgfaltspflichtengesetz (LkSG)  
+LAW_EFFECTIVE_DATE: 08.04.2026  
+Method: Law-X-Ray  
 
-This section evaluates reproducibility at the structural level within the analysis pipeline.
-It assesses whether the same causal mechanism is independently reproduced across meta-analyses (Run 1–3), rather than whether the final analysis results are identical.
+---
+
+
+## Reproducibility Scope  
+This section evaluates reproducibility at the structural (mechanism) level within the analysis pipeline.
+It does not compare final analysis outputs.
+Instead, it verifies whether the same causal mechanism is independently reproduced across multiple runs (Run 1–3).
+
+Reproducibility is assessed at the level of:
+
+• causal structure (A → B → C)  
+• factor consistency  
+• presence of an invariant core mechanism  
+
+This serves as an internal validation step:
+
+→ to ensure that the identified mechanism is not dependent on a single run  
+→ to extract the invariant structure of the system  
+
+Final analysis, validation, and confidence are performed separately.
+
+Reproducibility is assessed at the level of:
+
+• causal structure (A → B → C)  
+• factor consistency  
+• presence of an invariant core mechanism  
+
+This serves as an internal validation step:
+
+→ to ensure that the identified mechanism is not dependent on a single run  
+→ to extract the invariant structure of the system  
+
+Final analysis, validation, and confidence are performed separately.
+
+---
 
 ## Original Mechanisms
 
