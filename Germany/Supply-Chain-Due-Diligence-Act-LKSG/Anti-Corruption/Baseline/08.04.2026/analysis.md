@@ -26,16 +26,18 @@ This analysis does **not evaluate the law as a whole** and does not make normati
 It reconstructs how the system operates at the mechanism level.
 
 ---
-![Core mechanism](/assets/diagrams/lksg/lksg-mechanisms_08-04-2026.png)
+![Core mechanism](/assets/diagrams/lksg/lksg-mechanisms_08-04-2026_.png)
 
 ## 2. Core Mechanism
 
-**self-reporting / discretion  
-→ information control  
-→ limited verification / verification gap  
-→ low detection  
-→ incentive distortion (formal compliance)**  
-
+Entry condition: discretion      
+> → self-reporting  
+> → information control  
+> → verification gap  
+> → low detection  
+> → incentive distortion  
+ 
+Outcome: reduced enforcement effectiveness 
 
 **Validation status: empirically confirmed**  
 → mechanism consistently reproduced across runs 
@@ -52,39 +54,72 @@ It reconstructs how the system operates at the mechanism level.
 
 ## 2.1 Mechanism Explanation
 
-**discretion / self-reporting → information control**  
-• cause: actors define and generate reported data  
+**discretion → self-reporting**  
+• cause: regulatory discretion allows companies to define how compliance is reported, enabling self-reporting mechanisms 
+• factors: F1  
+
+**self-reporting → information control**  
+• cause: companies generate and disclose compliance data themselves, gaining control over information  
 • factors: F1, F7  
 
-**information control → limited verification**  
-• cause: verification depends on controlled information  
+**information control → verification gap**  
+• cause: verification depends on information controlled by the regulated actor, limiting independent assessment  
 • factors: F5, F7  
 
-**limited verification → low detection**  
-• cause: verification gap reduces detection probability  
+**verification gap → low detection**  
+• cause: the verification gap reduces the probability of identifying violations  
 • factors: F5  
 
 **low detection → incentive distortion**  
-• cause: reduced enforcement probability shifts behavior  
+• cause: reduced likelihood of detection shifts incentives toward formal compliance instead of substantive compliance  
 • factors: F2  
 
 ---
 
-## 3. Secondary Mechanisms
+## 3. Secondary Mechanisms  
 
-**Regulatory pressure → internal interpretation → strategic compliance**
+### Mechanism 1  
 
-**distortion → enforcement gap → reduced sanctions**
+> regulatory pressure  
+> → internal interpretation of requirements 
+> → strategic compliance behavior  
 
-**Validation status: empirically confirmed**  
-→ mechanisms observed in real-world cases  
-→ consistent with core mechanism  
+Explanation  
+regulatory pressure → internal interpretation of requirements  
+• cause: regulatory requirements are broad and allow interpretation, leading organizations to internally define how compliance is understood  
+• factors: F1, F9  
+internal interpretation → strategic compliance behavior  
+• cause: flexible interpretation enables companies to adapt behavior in a way that satisfies formal requirements while optimizing internal objectives  
+• factors: F2, F9  
+
+### Mechanism 2  
+
+> information distortion  
+> → enforcement gap  
+> → reduced sanction effectiveness  
+
+Explanation    
+information distortion → enforcement gap  
+• cause: distorted or selectively presented information limits the ability of authorities to assess actual compliance conditions  
+• factors: F5, F7  
+enforcement gap → reduced sanction effectiveness  
+• cause: limited detection and constrained enforcement capacity reduce the likelihood and impact of sanctions  
+• factors: F5, F11  
+
+---
+
+### Validation Status  
+
+Empirically confirmed  
+→ observed in real-world cases  
+→ consistent with the core mechanism  
 → variability reflects context-dependent activation  
 
-**Basis:**
-* present in some runs but not universal 
-* not part of invariant core
-* confirmed in empirical observations
+**Basis:**  
+
+• occurs in some runs but is not universal  
+• not part of the invariant core  
+• supported by empirical observations  
 
 ---
 
@@ -115,34 +150,69 @@ Source: reproducibility aggregation
 **Level: SYSTEMIC**  
 **Scale: system-wide**
 
-**Validation status: empirically confirmed**
-→ system-level behavior observed in practice
+**Validation status: empirically confirmed**  
+→ system-level behavior observed in practice  
 → no adjustment required
 
 ---
 
 ### Secondary Mechanisms
 
-**Level: PARTIAL**
-**Scale: segmental**
+**Level: PARTIAL**  
+**Scale: segmental**  
 
-**Validation status: empirically confirmed**
+**Validation status: empirically confirmed**  
 → system-consistent but condition-dependent
 
 ---
 
 ## 6. Feedback Structure
 
-**low detection  
-→ reinforces incentives  
-→ increases selective disclosure  
-→ reinforces information control**  
+> low detection  
+> → reinforces incentive distortion  
+> → increases selective disclosure  
+> → reinforces information control   
 
-Type: reinforcing feedback loop
+**Explanation**  
+low detection → reinforces incentive distortion  
+• cause: low probability of detection reduces expected costs of non-compliance, strengthening incentives for formal rather than substantive compliance  
+• factors: F2  
 
-**Validation status: empirically confirmed**
+incentive distortion → selective disclosure  
+• cause: when incentives favor formal compliance, organizations selectively disclose information that satisfies requirements while omitting unfavorable data  
+• factors: F2, F7  
+
+selective disclosure → information control  
+• cause: selective reporting increases control over the information available to regulators and external observers  
+• factors: F7  
+
+information control → low detection  
+• cause: controlled and incomplete information further limits verification capacity, reducing detection probability  
+• factors: F5, F7  
+
+**Validation status: empirically confirmed**  
 → loop observed across runs 
 → consistent with real-world behavior
+
+### Loop Properties  
+
+**Type:** reinforcing  
+
+**Strength:** high  
+• the loop is driven by multiple reinforcing links (information control ↔ verification gap ↔ low detection)  
+• core factors (F2, F5, F7) consistently support each transition  
+• no structural breaks identified  
+
+
+**Stability:** high  
+• the loop does not depend on a single element and persists under variation in individual links  
+• observed consistently across runs and validation cases  
+• no counteracting mechanisms identified within the system  
+
+
+**Implication:**   
+→ the feedback loop amplifies and stabilizes the core mechanism  
+→ once activated, the system tends to maintain low detection and incentive distortion over time  
 
 ---
 
@@ -156,7 +226,7 @@ The system operates through a structure where:
 
 Within this configuration:
 
-→ outcomes are shaped by information control and verification constraints
+→ outcomes are structurally driven by information control and verification constraints
 
 rather than by direct enforcement alone
 
@@ -176,15 +246,15 @@ Residual uncertainty reflects:
 
 ---
 
-# Final Point
+## Final Point
 
 The mechanism was derived through reproducible structural analysis
 and confirmed through real-world cases.
 
 This indicates:
 
-→ **low probability of structural error**
-→ **low probability of missing major mechanisms**
-→ **high alignment between model and actual system behavior**
+→ **low probability of structural error**  
+→ **low probability of missing major mechanisms**  
+→ **high alignment between model and actual system behavior**  
 
 ---
