@@ -16,7 +16,7 @@ Reproducibility is assessed at the level of:
 
 • causal structure (A → B → C)  
 • factor consistency  
-• presence of an invariant core mechanism  
+• presence of an INVARANT mechanism  
 
 This serves as an internal validation step:
 
@@ -24,19 +24,8 @@ This serves as an internal validation step:
 → to extract the invariant structure of the system  
 
 Final analysis, validation, and confidence are performed separately.
-
-Reproducibility is assessed at the level of:
-
-• causal structure (A → B → C)  
-• factor consistency  
-• presence of an invariant core mechanism  
-
-This serves as an internal validation step:
-
-→ to ensure that the identified mechanism is not dependent on a single run  
-→ to extract the invariant structure of the system  
-
-Final analysis, validation, and confidence are performed separately.
+Scope is method-level and remains constant across different systems and laws.
+Only input data (runs and context) varies.
 
 ---
 
