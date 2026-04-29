@@ -140,7 +140,7 @@ Detection of violations depends on complaint initiation
 and resource allocation.
 
 Mechanism Link:  
-low detection → enforcement dependency  
+low detection → enforcement dependency 
 
 Evidence Level: 🟢 High  
 
@@ -148,7 +148,48 @@ Interpretation:
 Shows that enforcement is partially reactive  
 and dependent on external inputs.
 
+
+### Case 5  
+
+Case ID: Formal Compliance without Substantive Change  
+
+Source: aggregated observations from LkSG reports and NGO critiques  
+
+Situation:  
+Companies report compliance through formal procedures and documentation, 
+while underlying risk conditions remain unchanged  
+
+Action:  
+Companies implement reporting structures and policies that meet formal requirements  
+
+Outcome:  
+Compliance is achieved at a formal level without significant operational change  
+
+Mechanism Link:  
+low detection → incentive distortion  
+
+Evidence Level: 🟡 Medium  
+
+Interpretation:  
+Indicates that incentives shift toward formal compliance when detection risk is limited
+
 ---
+
+
+Note:
+
+Different cases may reflect different observable consequences 
+of the same underlying mechanism.
+
+For example:
+
+low detection may lead to:
+• enforcement dependency (reactive enforcement)
+• incentive distortion (shift toward formal compliance)
+
+These are not alternative mechanisms, 
+but different manifestations of the same structural condition.
+
 
 ## 3. Core Mechanism Validation  
 
