@@ -90,7 +90,10 @@ regulatory pressure → internal interpretation of requirements
 • factors: F1, F9  
 internal interpretation → strategic compliance behavior  
 • cause: flexible interpretation enables companies to adapt behavior in a way that satisfies formal requirements while optimizing internal objectives  
-• factors: F2, F9  
+• factors: F2, F9    
+
+Type: INDEPENDENT (separate entry)   
+Dependency strength: N/A  
 
 ### Mechanism 2  
 
@@ -105,6 +108,12 @@ information distortion → enforcement gap
 enforcement gap → reduced sanction effectiveness  
 • cause: limited detection and constrained enforcement capacity reduce the likelihood and impact of sanctions  
 • factors: F5, F11  
+
+Type: DERIVED (from core mechanism)  
+Dependency strength: STRONG  
+• collapse_without_core: YES  
+• alternative_entry: NO   
+• core_link_overlap: YES  
 
 ---
 
