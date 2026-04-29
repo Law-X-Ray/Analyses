@@ -37,7 +37,11 @@ Entry condition: discretion
 > → low detection  
 > → incentive distortion  
  
-Outcome: reduced enforcement effectiveness 
+Outcome: reduced enforcement effectiveness  
+Explanation:
+incentive distortion → reduced enforcement effectiveness  
+• cause: persistent incentives for formal compliance reduce the effectiveness of enforcement mechanisms, as compliance appears satisfied without substantive changes  
+• factors: F2, F11
 
 **Validation status: empirically confirmed**  
 → mechanism consistently reproduced across runs 
@@ -110,6 +114,10 @@ enforcement gap → reduced sanction effectiveness
 • factors: F5, F11  
 
 Type: DERIVED (from core mechanism)  
+Origin:
+emerges from information control within the core mechanism, 
+where controlled or selective information enables distortion and limits enforcement accuracy  
+  
 Dependency strength: STRONG  
 • collapse_without_core: YES  
 • alternative_entry: NO   
