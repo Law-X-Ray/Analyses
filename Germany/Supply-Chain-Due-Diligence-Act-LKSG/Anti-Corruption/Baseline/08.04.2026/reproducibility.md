@@ -55,11 +55,14 @@ self-reporting → information control → distortion → limited verification �
 
 ## Invariant Mechanism
 
-self-reporting / discretion  
-→ information control  
-→ limited verification / verification gap  
-→ low detection  
-→ incentive distortion (formal compliance / reinforcement)  
+Entry condition: discretion      
+> → self-reporting  
+> → information control  
+> → verification gap  
+> → low detection  
+> → incentive distortion  
+ 
+Outcome: reduced enforcement effectiveness  
 
 ---
 
