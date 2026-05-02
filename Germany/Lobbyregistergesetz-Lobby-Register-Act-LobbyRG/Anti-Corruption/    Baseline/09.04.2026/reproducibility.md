@@ -1,9 +1,9 @@
 # Structural reproducibility
 
-Date: 28.04.2026  
-Law: Lobbyregistergesetz (Deutschland), reformierte Fassung 2024  
-LAW_EFFECTIVE_DATE: 09.04.2026  
-Method: Law-X-Ray  
+**Date:** 20.04.2026  
+**Law:** Lobbyregistergesetz (Deutschland), reformierte Fassung 2024  
+**LAW_EFFECTIVE_DATE:** 09.04.2026  
+**Method:** Law-X-Ray  
 
 ---
 
@@ -11,13 +11,14 @@ Method: Law-X-Ray
 
 This section evaluates reproducibility at the structural (mechanism) level within the analysis pipeline.
 It does not compare final analysis outputs.
+
 Instead, it verifies whether the same causal mechanism is independently reproduced across multiple runs (Run 1–3).
 
 Reproducibility is assessed at the level of:
 
-• causal structure (A → B → C)
-• factor consistency
-• presence of an INVARANT mechanism
+* causal structure (A → B → C)
+* factor consistency
+* presence of an INVARIANT mechanism
 
 This serves as an internal validation step:
 
@@ -46,21 +47,10 @@ self-declaration → information control → limited verification → detection 
 ## Invariant Mechanism
 
 > self-declaration
-→ information control
-→ selective disclosure
-→ limited verification
-→ detection gap
-
----
-
-## Extensions (candidates)
-
-These elements appear across runs but are not part of the invariant core structure.
-
-* selective enforcement
-* uneven control coverage
-* sustained underreporting
-* reinforcement of selective disclosure
+> → information control
+> → selective disclosure
+> → limited verification
+> → detection gap
 
 ---
 
@@ -80,23 +70,25 @@ These elements appear across runs but are not part of the invariant core structu
 
 ## Factors Table
 
-| Factor                        | Run1 | Run2 | Run3 | Range | Factor Stability | Signal Strength |
-| ----------------------------- | ---- | ---- | ---- | ----- | ---------------- | --------------- |
-| Discretion / Interpretability | 4.3  | 4.4  | 4.5  | 0.2   | 🟢 stable        | 🟡 MEDIUM       |
-| Incentive Structure           | 5.8  | 5.4  | 5.5  | 0.4   | 🟢 stable        | 🟢 HIGH         |
-| Secondary Effects             | 4.8  | 5.7  | 5.2  | 0.9   | 🟢 stable        | 🟡 MEDIUM       |
-| Control Concentration         | 4.4  | 5.1  | 4.6  | 0.7   | 🟢 stable        | 🟡 MEDIUM       |
-| Verification Gap              | 5.2  | 4.8  | 5.2  | 0.4   | 🟢 stable        | 🟢 HIGH         |
-| Transparency Limitation       | 4.3  | 4.1  | 4.2  | 0.2   | 🟢 stable        | 🟡 MEDIUM       |
-| Information Control           | 5.9  | 6.3  | 6.3  | 0.4   | 🟢 stable        | 🟢 HIGH         |
-| System Complexity             | 4.6  | 4.7  | 5.0  | 0.4   | 🟢 stable        | 🟡 MEDIUM       |
-| Application Variability       | 4.4  | 4.1  | 5.3  | 1.2   | 🟡 borderline    | 🟡 MEDIUM       |
-| Structural Stability          | 5.8  | 5.6  | 5.6  | 0.2   | 🟢 stable        | 🟢 HIGH         |
-| Sanctions Effectiveness       | 4.2  | 4.1  | 5.0  | 0.9   | 🟢 stable        | 🟡 MEDIUM       |
+| Factor                                                                 | Run1 | Run2 | Run3 | Range | Factor Stability | Signal Strength |
+| ---------------------------------------------------------------------- | ---- | ---- | ---- | ----- | ---------------- | --------------- |
+| F1 Discretion and Concentration of Powers                              | 4.3  | 4.4  | 4.5  | 0.2   | 🟢 stable        | 🟡 MEDIUM       |
+| F2 Regulatory / Stimuli Pressure                                       | 5.8  | 5.4  | 5.5  | 0.4   | 🟢 stable        | 🟢 HIGH         |
+| F3 Concentration of Benefit                                            | 4.8  | 5.7  | 5.2  | 0.9   | 🟢 stable        | 🟡 MEDIUM       |
+| F4 Narrow Access Points                                                | 4.4  | 5.1  | 4.6  | 0.7   | 🟢 stable        | 🟡 MEDIUM       |
+| F5 Enforcement Gap                                                     | 5.2  | 4.8  | 5.2  | 0.4   | 🟢 stable        | 🟢 HIGH         |
+| F6 Lack of Transparency and Traceability                               | 4.3  | 4.1  | 4.2  | 0.2   | 🟢 stable        | 🟡 MEDIUM       |
+| F7 Conflict of Interest                                                | 5.9  | 6.3  | 6.3  | 0.4   | 🟢 stable        | 🟢 HIGH         |
+| F8 Regulatory Complexity                                               | 4.6  | 4.7  | 5.0  | 0.4   | 🟢 stable        | 🟡 MEDIUM       |
+| F9 Selective Application                                               | 4.4  | 4.1  | 5.3  | 1.2   | 🟡 borderline    | 🟡 MEDIUM       |
+| F10 Structural Corruption Mechanism                                    | 5.8  | 5.6  | 5.6  | 0.2   | 🟢 stable        | 🟢 HIGH         |
+| F11 Strength of accountability mechanisms and application of sanctions | 4.2  | 4.1  | 5.0  | 0.9   | 🟢 stable        | 🟡 MEDIUM       |
 
 ---
 
-Range reflects variability across runs (lower = higher stability)
+**Range reflects variability across runs (lower = higher stability)**
+
+---
 
 ## Scale
 
@@ -125,9 +117,9 @@ Range reflects variability across runs (lower = higher stability)
 
 ## Key Drivers
 
-* F7 (information control)
-* F2 (incentive structure)
-* F5 (verification gap)
+* F7 — Conflict of Interest
+* F2 — Regulatory / Stimuli Pressure
+* F5 — Enforcement Gap
 
 ---
 
