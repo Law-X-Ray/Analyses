@@ -2,7 +2,7 @@
 
 **Date:** 20.04.2026  
 **Law:** Lobbyregistergesetz (Deutschland), reformierte Fassung 2024  
-**LAW_EFFECTIVE_DATE:** 09.04.2026  
+**Law version:** as of 09.04.2026  
 **Method:** Law-X-Ray  
 
 ---
