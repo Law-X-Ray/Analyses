@@ -35,7 +35,7 @@ regulatory pressure
 
 ## Mechanism Structure
 
-### Structural Entry Condition
+### Upstream Structural Layer
 
 regulatory pressure
 
