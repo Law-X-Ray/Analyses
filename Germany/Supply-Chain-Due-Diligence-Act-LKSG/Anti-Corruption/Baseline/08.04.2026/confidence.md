@@ -1,273 +1,109 @@
-# Confidence
+# Confidence Assessment
 
-Date: 26.04.2026  
-Law: Lieferkettensorgfaltspflichtengesetz (LkSG)  
-LAW_EFFECTIVE_DATE: 08.04.2026  
-
-Method: Law-X-Ray  
-
----
-
-## Method Note  
-
-The confidence level is calculated based on:
-
-• reproducibility of the mechanism across independent analyses  
-• structural consistency (absence of contradictions)  
-• removal of weak and non-causal links  
-• validation on real cases  
-
-All values are bounded rather than absolute,  
-and reflect residual uncertainty after validation.  
-
-The detailed calculation methodology is provided in `confidence_method.md`.
+**Date:** 08.05.2026  
+**Law:** Lieferkettensorgfaltspflichtengesetz (LkSG)  
+**Law version:** as of 08.04.2026  
+**Method:** Law-X-Ray Anti-Corruption Framework  
 
 ---
 
-## 1. General Evaluation Principle  
+## Scope of Confidence Assessment
 
-This section evaluates not the law itself and not its consequences, but:
+This section evaluates the degree of confidence that the identified mechanism:
 
-> the correctness and completeness of the constructed mechanism model based on the legal text  
+* reproduces across independent analytical runs
+* maintains structural stability under interpretative variability
+* corresponds to observable system elements
+* is not an artifact of a single run or isolated analytical formulation
 
-
-The evaluation is divided into independent components:
-
-1. mechanism correctness  
-2. mechanism completeness  
-3. structural error  
+The confidence assessment does not evaluate the law in a normative sense and does not constitute a legal conclusion.
 
 ---
 
-## 2. Core Mechanism  
+## Structural Confidence
+
+Structural confidence is assessed as high.
+
+Basis:
+
+* the STRUCTURAL CORE reproduces across all independent runs
+* the invariant mechanism remains stable across batch-level synthesis
+* the core causal structure remains consistent despite variation in articulation
+* alternative mechanisms do not demonstrate comparable cross-run stability
+
+STRUCTURAL CORE:
+
+information control  
+→ verification limitation  
+→ detection gap  
+
+Observed variability primarily affects:
+
+* interpretative layers
+* articulation of internal risk classification
+* downstream enforcement-related stages
+
+At the same time, the underlying structural configuration remains preserved.
 
 ---
 
-### 2.1 What is Evaluated  
+## Empirical Confidence
 
-For the core mechanism, three independent aspects are assessed:
+Empirical confidence is assessed as medium-high.
 
-1. mechanism correctness  
-2. mechanism status as core  
-3. mechanism completeness  
+Basis:
 
----
+Observable system elements confirm:
 
-### (1) Mechanism Correctness  
+* dependence on internally generated reporting structures
+* information control by regulated entities
+* variability in supply chain visibility
+* limitations of verification
+* dependence of detection on available information
 
-Definition:
+The strongest confirmation relates to the informational and verification structure of the mechanism.
 
-> the probability that the mechanism is correctly identified, meaning:
+Downstream enforcement-related effects are only partially observable and depend on activation conditions.
 
-- the mechanism is actually present in the structure of the law  
-- the causal chain corresponds to the legal text  
-- the links between elements (A → B) are constructed correctly  
+Validation is based on:
 
-
-Evaluation:  
-**≈99% (bounded)**  
-
-
-Additionally:
-
-Structural error is the estimated probability that  
-the mechanism model is constructed incorrectly  
-
-**≈1% (bounded)**  
+* corporate due diligence reporting structures
+* oversight architecture under LkSG
+* supervisory and verification procedures
+* publicly observable system elements
 
 ---
 
-### (2) Mechanism Status as Core  
+## Sources of Uncertainty
 
-Definition:
+Limitations of the confidence assessment include:
 
-> the probability that the mechanism is:
+* variability in articulation of individual mechanism links
+* partially indirect expression of detection-related stages
+* limited observability of enforcement dynamics
+* lack of full access to internal audit and verification processes
 
-- central (core of the system)  
-- the most stable  
-- reproducible across all analyses  
-- not replaced by a stronger alternative structure  
-
-
-Evaluation:  
-**97–99% (bounded)**  
+In addition, shared interpretative biases across analytical systems cannot be fully excluded.
 
 ---
 
-### (3) Mechanism Completeness  
+## Overall Assessment
 
-Definition:
+Overall confidence is assessed as high at the structural level.
 
-> the probability that the mechanism contains no missing elements, meaning:
+Basis:
 
-- the chain is complete  
-- there are no hidden intermediate elements  
-- there are no additional required links within the mechanism  
+* stable reproduction of the STRUCTURAL CORE
+* convergence across independent analytical runs
+* consistency between reproducibility, validation, and mechanism reconstruction
+* absence of competing mechanisms with comparable stability
 
-
-Evaluation:  
-**95–98% (bounded)**  
-
----
-
-### 2.2 Interpretation  
-
-- the mechanism is identified correctly with high probability  
-- the mechanism is highly likely to be central  
-- the structure of the mechanism is nearly complete  
+Observed convergence across independent runs and validation layers indicates a low likelihood that the identified mechanism is an artifact of a single run, isolated interpretation, or random analytical configuration.
 
 ---
 
-The remaining uncertainty is associated only with the possibility of:
+## Conclusion
 
-- missing an individual structural element  
-- or the existence of an alternative chain not identified in the analysis  
+The results indicate that the identified mechanism reflects stable structural properties of the system at the level of information architecture and verification constraints.
 
----
-
-### Basis of Calculation  
-
-Base: high reproducibility of the mechanism across independent analyses  
-+ structural consistency (absence of contradictions)  
-+ validation on real cases  
-
-→ leads to a near-maximum bounded estimate (~99%)
-
----
-
-## 3. Secondary Mechanisms  
-
----
-
-### 3.1 What is Evaluated  
-
-For secondary mechanisms, the same three components are assessed, taking into account their conditional nature  
-
-
-### (1) Mechanism Correctness  
-
-Definition:
-
-> the probability that the secondary mechanism:
-
-- actually exists in the system  
-- is correctly identified  
-- has a correct causal structure  
-
-
-Evaluation:
-
-**96–99% (bounded)**  
-
----
-
-### (2) Mechanism Completeness  
-
-Definition:
-
-> the probability that the mechanism:
-
-- contains no missing elements  
-- correctly describes the conditional chain  
-
-
-Evaluation:
-
-**90–95% (bounded)**  
-
----
-
-### (3) Structural Error  
-
-Definition:
-
-> the probability that the mechanism:
-
-- does not exist  
-or  
-- is described incorrectly  
-
-Evaluation:
-
-**1–4% (bounded)**  
-
----
-
-### (4) Conditionality (context-dependent)  
-
-Additionally:
-
-> secondary mechanisms are not universal  
-
-
-Frequency of occurrence:
-
-**85–95% (bounded)**  
-
-
-👉 important:
-
-this is not an error, but a characteristic  
-
----
-
-### 3.2 Interpretation for Secondary  
-
-- mechanisms are validated  
-- but do not manifest in all cases  
-- variability is a normal property  
-
----
-
-### Basis of Calculation  
-
-Base: presence in multiple analyses (but not all)  
-+ structural consistency with the core  
-+ validation on cases  
-− context dependency  
-
-→ leads to a slightly wider range (96–99%)
-
----
-
-## 4. Clear Distinction (Very Important)
-
----
-
-### Correctness ≠ Completeness  
-
-| Parameter | Meaning |
-|----------|--------|
-| Correctness | whether the mechanism is identified correctly |
-| Completeness | whether elements are missing |
-| Structural error | whether there is an error in the model |
-
----
-
-## 5. Summary  
-
-
-### Core Mechanism  
-
-- correctness: **≈99%**  
-- completeness: **95–98%**  
-- error: **≈1%**  
-
-
-### Secondary Mechanisms  
-
-- correctness: **96–99%**  
-- completeness: **90–95%**  
-- error: **1–4%**  
-- conditionality: **85–95% occurrence**  
-
----
-
-## 6. Final Interpretation  
-
-- the core mechanism is an almost exact representation of the law’s structure  
-- secondary mechanisms are validated but conditional  
-- the remaining uncertainty is only related to potentially missing elements  
-
---- 
-
+At the same time, downstream enforcement-related dynamics remain less stable and more context-dependent than the STRUCTURAL CORE.
