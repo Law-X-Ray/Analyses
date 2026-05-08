@@ -1,233 +1,227 @@
 # Validation
 
 **Date:** 20.04.2026  
-**Law:** Lobbyregistergesetz (Deutschland), reformierte Fassung 2024  
+**Law:** Lobbyregistergesetz (Germany), reformed 2024 version  
 **Law version:** as of 09.04.2026  
-**Method:** Law-X-Ray 
+**Method:** Law-X-Ray Anti-Corruption Framework
 
 ---
 
-## 1. Validation Approach
+## Validation Approach
 
-The goal is to verify whether the identified mechanism  
-is observable under the Lobbyregister framework.
+The purpose of this section is to assess whether the identified mechanism is observable within the Lobbyregister framework.
 
 Validation is based on:
 
-• structure of the Lobbyregister reporting system  
-• publicly available registry entries  
-• formal oversight and reporting procedures  
+- the structure of the Lobbyregister reporting system
+- publicly available registry entries
+- formal reporting and oversight procedures
 
-**Validation principle:**
+Validation principle:
 
-Each mechanism link is tested through observable system behavior,  
-not inferred actor motivation.
-
----
-
-## 2. Cases
+Each mechanism link is assessed through observable system behavior rather than inferred actor motivation.
 
 ---
+
+## Validation Cases
 
 ### Case 1
 
-Case ID: German Lobbyregister Self-Reporting System  
+**Case ID:** German Lobbyregister Self-Reporting System  
+**Source:** official registry structure  
+**Reference:** https://www.lobbyregister.bundestag.de
 
-Source: official registry structure  
+### Situation
 
-Reference:  
-https://www.lobbyregister.bundestag.de  
+Organizations are required to register and disclose lobbying activities through self-reported entries.
 
-**Situation:**  
-Organizations are required to register and disclose lobbying activities  
-through self-reported entries.
+### Action
 
-**Action:**  
-Entities submit information about activities, clients, and expenditures  
-based on internally generated data.
+Entities submit information about activities, clients, and expenditures based on internally generated data.
 
-**Outcome:**  
-Information content and level of detail are determined by the reporting entity.
+### Outcome
 
-**Mechanism Link:**  
-self-declaration → information control  
-(F7 — Conflict of Interest, information control component)
+Information content and disclosure scope are determined by the reporting entity.
 
-**Evidence Level:** 🟢 High  
+### Mechanism Link
 
-**Interpretation:**  
-Demonstrates that regulated actors control the generation and scope of disclosed information,  
-which corresponds to the control component of Conflict of Interest (F7).
+self-reporting  
+→ information control
+
+### Evidence Level
+
+High
+
+### Interpretation
+
+The reporting structure places control over initial information generation and disclosure scope under regulated entities themselves.
 
 ---
 
 ### Case 2
 
-Case ID: Disclosure of Lobbying Activities and Contacts  
+**Case ID:** Disclosure of Lobbying Activities and Contacts  
+**Source:** public registry entries  
+**Reference:** https://www.lobbyregister.bundestag.de
 
-Source: public registry entries  
+### Situation
 
-Reference:  
-https://www.lobbyregister.bundestag.de  
-
-**Situation:**  
 Organizations disclose lobbying activities in structured but generalized formats.
 
-**Action:**  
-Descriptions of activities and objectives are formulated broadly  
-and do not fully specify interactions.
+### Action
 
-**Outcome:**  
-The structure allows variation in level of detail, resulting in selective disclosure  
-within formal requirements.
+Descriptions of activities and objectives are formulated broadly and may omit specific details regarding interactions and activities.
 
-**Mechanism Link:**  
-information control → selective disclosure  
-(F7 — Conflict of Interest, information control component)
+### Outcome
 
-**Evidence Level:** 🟢 High  
+The reporting structure allows variation in disclosure granularity within formal reporting requirements.
 
-**Interpretation:**  
-Control over disclosed information creates conditions for selective representation  
-without violating formal reporting rules.
+### Mechanism Link
+
+information control  
+→ selective disclosure
+
+### Evidence Level
+
+High
+
+### Interpretation
+
+Control over disclosed information creates conditions for selective disclosure without requiring formal rule violations.
 
 ---
 
 ### Case 3
 
-Case ID: Verification and Oversight Structure of Lobbyregister  
+**Case ID:** Verification and Oversight Structure of Lobbyregister  
+**Source:** regulatory design  
+**Reference:** https://www.lobbyregister.bundestag.de
 
-Source: regulatory design  
+### Situation
 
-Reference:  
-https://www.lobbyregister.bundestag.de  
+Oversight relies primarily on submitted data and formal completeness checks.
 
-**Situation:**  
-Oversight relies on submitted data and formal checks of completeness.
+### Action
 
-**Action:**  
-Verification focuses on whether required fields are filled  
-and whether formal inconsistencies are detectable within submitted data.
+Verification procedures focus on whether required fields are completed and whether inconsistencies are identifiable within submitted information.
 
-**Outcome:**  
-Verification is structurally limited to submitted data,  
-with no systematic mechanism for independent cross-checking across sources.
+### Outcome
 
-**Mechanism Link:**  
-selective disclosure → limited verification  
-(F5 — Enforcement Gap, verification limitation component)
+Verification remains structurally constrained by the scope and quality of submitted data, with limited independent cross-checking capacity.
 
-**Evidence Level:** 🟡 Medium  
+### Mechanism Link
 
-**Interpretation:**  
-Verification capacity is limited not by absence of rules,  
-but by structural dependence on self-reported information.
+selective disclosure  
+→ verification limitation
+
+### Evidence Level
+
+Medium
+
+### Interpretation
+
+Verification limitations arise from structural dependence on self-reported information rather than from the absence of oversight procedures.
 
 ---
 
 ### Case 4
 
-Case ID: Enforcement and Correction Procedures  
+**Case ID:** Enforcement and Correction Procedures  
+**Source:** procedural rules  
+**Reference:** https://www.lobbyregister.bundestag.de
 
-Source: procedural rules  
+### Situation
 
-Reference:  
-https://www.lobbyregister.bundestag.de  
+Corrections and enforcement actions are triggered by detected inconsistencies or external signals.
 
-**Situation:**  
-Corrections and enforcement actions are triggered by detected inconsistencies  
-or external signals.
+### Action
 
-**Action:**  
-Authorities request corrections or updates  
-based on identified discrepancies or complaints.
+Authorities request corrections or updates based on observable discrepancies, complaints, or external inputs.
 
-**Outcome:**  
-Detection depends on observable inconsistencies or external inputs,  
-rather than systematic proactive verification.
+### Outcome
 
-**Mechanism Link:**  
-limited verification → detection gap  
-(F5 — Enforcement Gap)
+Detection depends on identifiable signals rather than systematic proactive verification.
 
-**Evidence Level:** 🟡 Medium  
+### Mechanism Link
 
-**Interpretation:**  
-Detection is not systematically absent, but conditionally activated.  
-This results in incomplete coverage rather than full absence of detection.
+verification limitation  
+→ detection gap
+
+### Evidence Level
+
+Medium
+
+### Interpretation
+
+Detection capacity is conditionally activated and remains structurally dependent on observable inconsistencies.
 
 ---
 
-## 3. Core Mechanism Validation
+## Core Mechanism Validation
 
-| Mechanism Element   | Status   |
-|--------------------|----------|
-| self-declaration   | observed |
-| information control| observed |
+| Mechanism Element | Status |
+|---|---|
+| self-reporting | observed |
+| information control | observed |
 | selective disclosure | observed |
-| limited verification | observed |
-| detection gap      | partial  |
+| verification limitation | observed |
+| detection gap | partially observed |
 
 ---
 
-## 4. Secondary Mechanisms Validation
+## Secondary Mechanisms
 
-### Mechanism
+selective enforcement  
+→ uneven control coverage  
+→ reinforcement of underreporting
 
-selective enforcement → uneven control coverage → reinforcement of underreporting  
+Observed enforcement dynamics indicate that oversight intensity varies depending on the detectability of inconsistencies and the availability of observable signals.
 
-**Validation:**
+As a result, enforcement coverage may become uneven across cases.
 
-• enforcement actions depend on detected inconsistencies  
-• control coverage varies depending on available information  
-
-**Example:**
-
-**Situation:**  
-Enforcement actions focus on cases with visible inconsistencies.
-
-**Action:**  
-Authorities prioritize cases where discrepancies are observable.
-
-**Outcome:**  
-Control coverage varies depending on detectability of issues.
-
-**Evidence Level:** 🟡 Medium  
-
-**Status:** observed (context-dependent)  
+**Evidence Level:** Medium  
+**Status:** context-dependent and partially observable
 
 ---
 
-### Note on "context-dependent"
+### Note on Context-Dependent Mechanisms
 
-Secondary mechanisms are described as context-dependent, meaning:
+Secondary mechanisms are described as context-dependent because:
 
-• they are empirically observable  
-• their activation depends on specific structural conditions (e.g. detection triggers)  
-• they do not manifest uniformly across all cases  
+- they are empirically observable
+- their activation depends on specific structural conditions
+- they do not manifest uniformly across all cases
 
-This reflects variability of activation, not uncertainty of existence.
-
----
-
-## 5. Summary
-
-Observed under Lobbyregister:
-
-• reliance on self-declared reporting  
-• information controlled by reporting entities  
-(F7 — Conflict of Interest, information control component)  
-• selective disclosure within formal requirements  
-• verification structurally constrained by reported data  
-(F5 — Enforcement Gap, verification limitation component)  
-• detection structurally depends on observable signals rather than systematic verification  
+This reflects variability of activation rather than uncertainty of existence.
 
 ---
 
-## 6. Conclusion
+## Summary
 
-→ core mechanism is structurally observed under Lobbyregister framework  
-→ detection stage is partially manifested due to conditional verification  
-→ secondary mechanisms are observed as derived and context-dependent  
+The following structural elements are observable under the Lobbyregister framework:
 
-**Validation status:** confirmed (law-specific)
+- reliance on self-reported disclosure
+- information control by reporting entities
+- selective disclosure within formal reporting requirements
+- verification limitations caused by dependence on submitted data
+- detection processes dependent on observable signals rather than systematic independent verification
+
+---
+
+## Conclusion
+
+The validation process indicates that the identified mechanism is structurally observable within the Lobbyregister framework.
+
+The strongest observable confirmation relates to:
+
+- self-reporting structures
+- information control
+- verification limitations
+
+Detection-related stages remain partially observable due to the conditional nature of enforcement and verification processes.
+
+Secondary mechanisms appear as derived and context-dependent effects rather than invariant structural components.
+
+**Validation status:** structurally confirmed within the Lobbyregister framework
+
+---
