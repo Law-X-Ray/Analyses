@@ -1,9 +1,9 @@
 # Run-Level Evidence
 
-**Date:** 05.05.2026  
+**Date:** 08.05.2026  
 **Law:** Lieferkettensorgfaltspflichtengesetz (LkSG)  
 **Law version:** as of 08.04.2026  
-**Method:** Law-X-Ray  
+**Method:** Law-X-Ray Anti-Corruption Framework
 
 ---
 
@@ -21,20 +21,19 @@ with no shared memory between runs
 
 ## Tested Causal Chain
 
-> regulatory pressure
-> → internal interpretation
-> → information control
-> → verification gap
-> → limited/selective enforcement
+> regulatory pressure  
+> → internal interpretation  
+> → information control  
+> → verification limitation  
+> → detection gap  
 
 ---
 
 ## Reproducibility
 
-Regulatory pressure → information control → verification gap: 🟢 30/30
+Full causal chain: 24/30
 
-Full causal chain: 🟡 24/30
-
+Core mechanism (information control → verification limitation → detection gap): 30/30
 
 ---
 
@@ -46,9 +45,9 @@ Full causal chain: 🟡 24/30
 
 > information control: 30/30
 
-> verification gap: 30/30
+> verification limitation: 30/30
 
-> limited/selective enforcement: 27/30
+> detection gap: 27/30
 
 ---
 
@@ -60,7 +59,7 @@ Observed deviations fall into two categories:
    (internal interpretation is not explicitly separated as a distinct link)
 
 2. Incomplete articulation
-   (selective enforcement is expressed indirectly)
+   (detection-related stages are expressed indirectly)
 
 In all cases, core structural elements remain present.
 
@@ -69,7 +68,6 @@ In all cases, core structural elements remain present.
 ## Conclusion
 
 The core mechanism is invariant across all runs.
-The extended causal chain demonstrates high reproducibility.
+The extended causal chain demonstrates high but not complete reproducibility.
 
 Observed deviations reflect analytical variation rather than structural contradiction.
-
