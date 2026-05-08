@@ -55,7 +55,7 @@ self-reporting → information control → verification limitation → detection
 
 ## Structural Consistency
 
-Structural Consistency The STRUCTURAL CORE remains invariant across independent runs. 
+The STRUCTURAL CORE remains invariant across independent runs. 
 Variability is concentrated in secondary operational and enforcement-related layers.
 
 ---
