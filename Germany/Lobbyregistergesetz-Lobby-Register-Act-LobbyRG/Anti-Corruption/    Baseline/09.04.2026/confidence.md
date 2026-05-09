@@ -7,7 +7,7 @@
 
 ---
 
-# Scope of Confidence Assessment
+## Scope of Confidence Assessment
 
 This section evaluates the degree of confidence that the identified analytical results:
 
@@ -21,7 +21,7 @@ The confidence assessment does not evaluate the law in a normative sense and doe
 
 ---
 
-# Sources of Confidence
+## Sources of Confidence
 
 The assessment is based on:
 
@@ -39,7 +39,7 @@ Observed consistency across independent analytical runs and validation results i
 
 ---
 
-# Confidence in the Core Mechanism
+## Confidence in the Core Mechanism
 
 Confidence in the Core Mechanism is assessed as high.
 
@@ -63,40 +63,35 @@ Observed variability primarily affects articulation of individual mechanism link
 
 ---
 
-# Confidence in Secondary Mechanisms
+## Confidence in Secondary Mechanisms
 
-Confidence in secondary mechanisms is assessed as medium-high.
+Confidence in secondary mechanisms is assessed as high.
 
-Secondary mechanisms demonstrate recurrent cross-run reproduction and partial confirmation through reproducibility and validation.
+Secondary mechanisms demonstrate stable recurrent reproduction across independent analytical runs and confirmation through reproducibility and validation.
 
-At the same time, their manifestation depends more strongly on operational context and activation conditions than the Core Mechanism itself.
-
-Observed variability primarily affects:
-
-- articulation of enforcement-related stages
-- behavioral interpretation layers
-- conditions of mechanism manifestation
+Observed variability primarily affects articulation of enforcement-related stages and behavioral interpretation layers.
 
 ---
 
-# Confidence in Feedback Structure
+## Confidence in Feedback Structure
 
-Confidence in the feedback structure is assessed as medium-high.
+Confidence in the feedback structure is assessed as high.
 
-Feedback effects demonstrate recurrent reproduction across independent analyses and remain structurally consistent with the reconstructed Core Mechanism.
+Feedback effects demonstrate recurrent structural consistency across independent analyses and validation results while remaining structurally aligned with the reconstructed Core Mechanism.
 
-At the same time, feedback amplification depends more strongly on contextual activation conditions and is less directly observable than the Core Mechanism itself.
+Observed variability primarily affects articulation and operational manifestation of reinforcing feedback dynamics.
+
 
 ---
 
-# Sources of Uncertainty
+## Sources of Uncertainty
 
 The analysis remains limited by incomplete visibility into internal enforcement and verification processes that are not publicly observable.
 At the same time, the constrained analytical structure, reproducibility filtering, divergence review, and validation procedures substantially reduce the likelihood that reconstructed mechanisms are artifacts of arbitrary interpretation or isolated model behavior.
 
 ---
 
-# Overall Assessment
+## Overall Assessment
 
 Overall confidence is assessed as high at the structural level.
 
@@ -109,7 +104,7 @@ The assessment is based on:
 
 ---
 
-# Conclusion
+## Conclusion
 
 The results indicate that the identified Core Mechanism reflects stable structural properties of the system at the level of information architecture and verification constraints.
 Secondary mechanisms and feedback effects also demonstrate recurrent reproduction across analytical runs and validation results.
