@@ -7,103 +7,112 @@
 
 ---
 
-## Scope of Confidence Assessment
+# Scope of Confidence Assessment
 
-This section evaluates the degree of confidence that the identified mechanism:
+This section evaluates the degree of confidence that the identified analytical results:
 
-- reproduces across independent analytical runs
-- maintains structural stability under interpretative variability
-- corresponds to observable system elements
-- is not an artifact of a single run or isolated analytical formulation
+- reflect stable structural properties of the regulatory system
+- reproduce across independent analytical runs
+- remain consistent under interpretative variability
+- correspond to observable system elements
+- are not artifacts of isolated analytical formulation or system-specific analytical behavior
 
 The confidence assessment does not evaluate the law in a normative sense and does not constitute a legal conclusion.
 
 ---
 
-## Structural Confidence
+# Sources of Confidence
 
-Structural confidence is assessed as high.
+The assessment is based on:
 
-Basis:
+- constrained frame-based analysis
+- independent analytical runs across multiple AI systems
+- cross-run synthesis and structural filtering
+- reproducibility assessment
+- validation against observable system elements
 
-- the STRUCTURAL CORE reproduces across all independent runs
-- the invariant mechanism remains stable across batch-level synthesis
-- the core causal structure remains consistent despite variation in articulation
-- alternative mechanisms do not demonstrate comparable cross-run stability
+The analytical pipeline constrains both the analytical context and the reconstruction process in order to reduce arbitrary interpretation.
 
-STRUCTURAL CORE:
+No structurally new mechanisms emerged during the third synthesis batch despite continued analytical variation across runs. This suggests saturation at the level of recurrent mechanism extraction within the applied analytical frame.
 
-information control  
+Observed consistency across independent analytical runs and validation results indicates a low likelihood that the identified analytical results are artifacts of isolated interpretation, random analytical variation, or system-specific analytical behavior.
+
+---
+
+# Confidence in the Core Mechanism
+
+Confidence in the Core Mechanism is assessed as high.
+
+Core Mechanism:
+
+self-reporting  
+→ information control  
+→ selective disclosure  
 → verification limitation  
 → detection gap
 
-Observed variability primarily affects:
-
-- secondary operational layers
-- articulation of selective disclosure
-- downstream enforcement-related stages
-
-At the same time, the underlying structural configuration remains preserved.
-
----
-
-## Empirical Confidence
-
-Empirical confidence is assessed as medium-high.
-
 Basis:
 
-Observable system elements confirm:
+- high reproducibility across independent analytical runs
+- consistency across synthesis stages
+- preservation of the mechanism under analytical variability
+- confirmation through validation against observable system structure
+- absence of competing mechanisms with comparable stability
 
-- dependence on self-reporting
-- information control by regulated entities
-- variability in disclosure structure
-- limitations of verification
-- dependence of detection on available information
-
-The strongest confirmation relates to the informational structure of the mechanism.
-
-Downstream enforcement-related effects are only partially observable and depend on activation conditions.
-
-Validation is based on:
-
-- the structure of the Lobbyregister system
-- reporting procedures
-- oversight architecture
-- publicly observable system elements
+Observed variability primarily affects articulation of individual mechanism links rather than the mechanism structure itself.
 
 ---
 
-## Sources of Uncertainty
+# Confidence in Secondary Mechanisms
 
-Limitations of the confidence assessment include:
+Confidence in secondary mechanisms is assessed as medium-high.
 
-- variability in articulation of individual mechanism links
-- partially indirect expression of detection-related stages
-- limited observability of enforcement dynamics
-- lack of full access to internal verification processes
+Secondary mechanisms demonstrate recurrent cross-run reproduction and partial confirmation through reproducibility and validation.
 
-In addition, shared interpretative biases across analytical systems cannot be fully excluded.
+At the same time, their manifestation depends more strongly on operational context and activation conditions than the Core Mechanism itself.
+
+Observed variability primarily affects:
+
+- articulation of enforcement-related stages
+- behavioral interpretation layers
+- conditions of mechanism manifestation
 
 ---
 
-## Overall Assessment
+# Confidence in Feedback Structure
+
+Confidence in the feedback structure is assessed as medium-high.
+
+Feedback effects demonstrate recurrent reproduction across independent analyses and remain structurally consistent with the reconstructed Core Mechanism.
+
+At the same time, feedback amplification depends more strongly on contextual activation conditions and is less directly observable than the Core Mechanism itself.
+
+---
+
+# Sources of Uncertainty
+
+The analysis remains limited by incomplete visibility into internal enforcement and verification processes that are not publicly observable.
+At the same time, the constrained analytical structure, reproducibility filtering, divergence review, and validation procedures substantially reduce the likelihood that reconstructed mechanisms are artifacts of arbitrary interpretation or isolated model behavior.
+
+---
+
+# Overall Assessment
 
 Overall confidence is assessed as high at the structural level.
 
-Basis:
+The assessment is based on:
 
-- stable reproduction of the STRUCTURAL CORE
-- convergence across independent analytical runs
+- stable reproduction of the Core Mechanism
+- recurrent reproduction of secondary mechanisms and feedback effects
 - consistency between reproducibility, validation, and mechanism reconstruction
-- absence of competing mechanisms with comparable stability
-
-Observed convergence across independent runs and validation layers indicates a low likelihood that the identified mechanism is an artifact of a single run, isolated interpretation, or random analytical configuration.
+- absence of competing mechanisms with comparable structural stability
 
 ---
 
-## Conclusion
+# Conclusion
 
-The results indicate that the identified mechanism reflects stable structural properties of the system at the level of information architecture and verification constraints.
+The results indicate that the identified Core Mechanism reflects stable structural properties of the system at the level of information architecture and verification constraints.
+Secondary mechanisms and feedback effects also demonstrate recurrent reproduction across analytical runs and validation results.
+The combined reproducibility, validation, and constrained analytical structure of the pipeline support a high level of confidence in the reconstructed system behavior.
 
-At the same time, downstream enforcement-related dynamics remain less stable and more context-dependent than the STRUCTURAL CORE.
+---
