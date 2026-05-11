@@ -8,6 +8,18 @@
 
 ---
 
+## Description
+
+This file summarizes the structural analytical results derived through the Law-X-Ray Anti-Corruption Framework.
+
+The analysis focuses on reconstruction of system-level informational and verification dynamics observable within the regulatory architecture.
+
+The analysis does not evaluate the law as a whole and does not assess legislative intent, policy objectives, or overall effectiveness.
+
+The assessment is limited to structural mechanism reconstruction, reproducibility analysis, and validation against observable system elements.
+
+---
+
 ## Key Finding
 
 The analysis indicates that limitations of transparency and detection within the lobbying registry system arise primarily from the architecture of information generation and verification rather than from isolated instances of non-compliance.
