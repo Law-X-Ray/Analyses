@@ -1,9 +1,9 @@
 # System Analysis
 
-**Date:** 08.05.2026  
+**Date:** 11.05.2026  
 **Law:** Lieferkettensorgfaltspflichtengesetz (LkSG)  
 **Law version:** as of 08.04.2026  
-**Method:** Law-X-Ray Anti-Corruption Framework  
+**Method:** Law-X-Ray Anti-Corruption Framework
 
 ---
 
@@ -13,13 +13,13 @@ This file presents the structural model of system behavior under regulatory cond
 
 The analysis focuses on:
 
-* the core causal mechanism
-* secondary mechanisms
-* structural configuration
+- the core causal mechanism
+- secondary mechanisms
+- structural configuration
 
-The model identifies structural conditions under which outcomes emerge, including information control, self-reporting architecture, and verification limitations.
+The model identifies structural conditions under which outcomes emerge, including internal interpretation, information control, and verification limitations.
 
-This analysis does not evaluate the law as a whole and does not make normative claims.
+This analysis does not evaluate the law as a whole and does not make normative claims.  
 It reconstructs how the system operates at the mechanism level.
 
 ---
@@ -30,7 +30,7 @@ regulatory pressure
 → internal interpretation  
 → information control  
 → verification limitation  
-→ detection gap  
+→ detection gap
 
 **Outcome:** constrained detection capacity
 
@@ -38,24 +38,24 @@ regulatory pressure
 
 Basis:
 
-* the core mechanism reproduces across independent runs
-* the mechanism remains structurally stable across independent synthesis layers
-* no major structural contradictions were identified
-* behavioral elements are excluded from the core structure
+- the core mechanism reproduces across independent runs
+- the mechanism remains structurally stable across independent synthesis layers
+- no major structural contradictions were identified
+- behavioral elements are excluded from the core structure
 
 Core exclusions:
 
-* incentive-driven behavior
-* selective enforcement variability
+- incentive-driven behavior
+- enforcement variability
 
-These elements are treated as secondary or conditional mechanisms rather than components of the invariant structure.
+These elements are treated as secondary or conditional mechanisms rather than components of the stable structural configuration.
 
 ---
 
 ### Implication
 
-* detection limitations are structurally embedded within internally controlled reporting and verification architecture
-* increasing enforcement intensity alone is unlikely to eliminate the constraint
+- detection limitations are structurally embedded within internally controlled reporting and verification processes
+- increasing enforcement intensity alone is unlikely to eliminate the constraint
 
 ---
 
@@ -63,19 +63,19 @@ These elements are treated as secondary or conditional mechanisms rather than co
 
 ### regulatory pressure → internal interpretation
 
-Legal due diligence obligations require companies to internally define, classify, and operationalize supply chain risks.
+Legal due diligence obligations require regulated entities to internally define, classify, and operationalize supply chain risks within company-controlled compliance structures.
 
 ### internal interpretation → information control
 
-Internally defined reporting and risk assessment structures place information generation under company control.
+Internally defined risk categorization and reporting structures place primary informational control under regulated entities themselves.
 
 ### information control → verification limitation
 
-Control over generated information constrains independent visibility and limits verification capacity.
+Company-controlled reporting and disclosure practices constrain the scope and accessibility of independent verification.
 
 ### verification limitation → detection gap
 
-Restricted verification capacity reduces the probability of identifying violations or inconsistencies across supply chains.
+Limited verification capacity reduces the probability of identifying inconsistencies, omissions, or violations across complex supply chain structures.
 
 ---
 
@@ -89,9 +89,9 @@ Secondary mechanisms explain variation and amplification effects, but do not det
 
 regulatory pressure  
 → strategic compliance behavior  
-→ selective implementation depth  
+→ selective implementation depth
 
-Regulatory obligations may produce formal compliance behavior while allowing variation in implementation intensity, reporting scope, and operational prioritization.
+Legal obligations create incentives for procedural compliance strategies that may vary depending on internal prioritization, supplier visibility, and operational constraints.
 
 **Status:** context-dependent behavioral mechanism.
 
@@ -101,9 +101,9 @@ Regulatory obligations may produce formal compliance behavior while allowing var
 
 information control  
 → transparency limitation  
-→ enforcement gap  
+→ enforcement gap
 
-Internally generated and selectively structured information may constrain observable supply chain visibility, limiting effective oversight and enforcement capacity.
+Internally controlled reporting structures and uneven supply chain visibility may constrain supervisory observability and reduce enforcement consistency across cases.
 
 **Status:** derived structural-operational mechanism observable within the validated system structure.
 
@@ -112,12 +112,12 @@ Internally generated and selectively structured information may constrain observ
 ## Feedback Structure
 
 detection gap  
-→ reduced risk of detection  
+→ reduced detection risk  
 → information control  
 → verification limitation  
-→ detection gap  
+→ detection gap
 
-The feedback loop is not required for the core mechanism to operate, but may amplify informational asymmetry under conditions of constrained verification.
+The feedback loop is not required for the core mechanism to operate, but may amplify information asymmetry and verification limitations under conditions of constrained observability.
 
 **Status:** conditionally observable amplification mechanism supported by partial validation evidence.
 
@@ -125,11 +125,11 @@ The feedback loop is not required for the core mechanism to operate, but may amp
 
 ## Interpretation
 
-The system operates through an informational structure in which:
+The system operates through an informational and procedural structure in which:
 
-* risk classification and reporting are internally generated by regulated entities
-* information remains structurally controlled by reporting actors
-* verification depends on available and disclosed information
+- risk definitions and reporting processes are internally operationalized
+- information remains structurally controlled by regulated entities
+- verification depends on accessible documentation and observable signals
 
 As a result, system outcomes are shaped primarily by information control and verification limitations rather than enforcement intensity alone.
 
@@ -141,8 +141,9 @@ The mechanism was derived through reproducible structural analysis and validated
 
 This indicates:
 
-* reduced likelihood of structural misidentification
-* high internal consistency
-* strong alignment with observable informational and verification structures
+- reduced likelihood of structural misidentification
+- high internal consistency
+- strong alignment with observable informational and verification structures
 
 ---
+```
