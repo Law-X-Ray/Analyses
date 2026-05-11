@@ -1,89 +1,93 @@
 # Confidence Assessment
 
-**Date:** 08.05.2026  
+**Date:** 11.05.2026  
 **Law:** Lieferkettensorgfaltspflichtengesetz (LkSG)  
 **Law version:** as of 08.04.2026  
-**Method:** Law-X-Ray Anti-Corruption Framework  
+**Method:** Law-X-Ray Anti-Corruption Framework
 
 ---
 
 ## Scope of Confidence Assessment
 
-This section evaluates the degree of confidence that the identified mechanism:
+This section evaluates the degree of confidence that the identified analytical results:
 
-* reproduces across independent analytical runs
-* maintains structural stability under interpretative variability
-* corresponds to observable system elements
-* is not an artifact of a single run or isolated analytical formulation
+- reflect stable structural properties of the regulatory system
+- reproduce across independent analytical runs
+- remain consistent under interpretative variability
+- correspond to observable system elements
+- are not artifacts of isolated analytical formulation or system-specific analytical behavior
 
 The confidence assessment does not evaluate the law in a normative sense and does not constitute a legal conclusion.
 
 ---
 
-## Structural Confidence
+## Sources of Confidence
 
-Structural confidence is assessed as high.
+The assessment is based on:
 
-Basis:
+- constrained frame-based analysis
+- independent analytical runs across multiple AI systems
+- cross-run synthesis and structural filtering
+- run-level evidence assessment
+- validation against observable system elements
 
-* the STRUCTURAL CORE reproduces across all independent runs
-* the invariant mechanism remains stable across batch-level synthesis
-* the core causal structure remains consistent despite variation in articulation
-* alternative mechanisms do not demonstrate comparable cross-run stability
+The analytical pipeline constrains both the analytical context and the reconstruction process in order to reduce arbitrary interpretation.
 
-STRUCTURAL CORE:
+No structurally new mechanisms emerged during the third synthesis batch despite continued analytical variation across runs. This suggests saturation at the level of recurrent mechanism extraction within the applied analytical frame.
 
-information control  
-→ verification limitation  
-→ detection gap  
-
-Observed variability primarily affects:
-
-* interpretative layers
-* articulation of internal risk classification
-* downstream enforcement-related stages
-
-At the same time, the underlying structural configuration remains preserved.
+Observed consistency across independent analytical runs and validation results indicates a low likelihood that the identified analytical results are artifacts of isolated interpretation, random analytical variation, or system-specific analytical behavior.
 
 ---
 
-## Empirical Confidence
+## Confidence in the Core Mechanism
 
-Empirical confidence is assessed as medium-high.
+Confidence in the Core Mechanism is assessed as high.
+
+Core Mechanism:
+
+regulatory pressure  
+→ internal interpretation  
+→ information control  
+→ verification limitation  
+→ detection gap
 
 Basis:
 
-Observable system elements confirm:
+- high reproducibility across independent analytical runs
+- consistency across synthesis stages
+- preservation of the mechanism under analytical variability
+- confirmation through validation against observable system structure
+- absence of competing mechanisms with comparable stability
 
-* dependence on internally generated reporting structures
-* information control by regulated entities
-* variability in supply chain visibility
-* limitations of verification
-* dependence of detection on available information
+Observed variability primarily affects articulation of interpretative and enforcement-related stages rather than the mechanism structure itself.
 
-The strongest confirmation relates to the informational and verification structure of the mechanism.
+---
 
-Downstream enforcement-related effects are only partially observable and depend on activation conditions.
+## Confidence in Secondary Mechanisms
 
-Validation is based on:
+Confidence in secondary mechanisms is assessed as high.
 
-* corporate due diligence reporting structures
-* oversight architecture under LkSG
-* supervisory and verification procedures
-* publicly observable system elements
+Secondary mechanisms demonstrate recurrent reproduction across independent analytical runs and partial confirmation through validation.
+
+Observed variability primarily affects articulation of strategic compliance behavior, transparency limitation, and enforcement-related operational layers.
+
+---
+
+## Confidence in Feedback Structure
+
+Confidence in the feedback structure is assessed as high.
+
+Feedback effects demonstrate recurrent structural consistency across independent analyses while remaining partially dependent on operational and contextual activation conditions.
+
+Observed variability primarily affects articulation and operational manifestation of reinforcing feedback dynamics.
 
 ---
 
 ## Sources of Uncertainty
 
-Limitations of the confidence assessment include:
+The analysis remains limited by incomplete visibility into internal audit, supplier verification, and enforcement processes that are not fully publicly observable.
 
-* variability in articulation of individual mechanism links
-* partially indirect expression of detection-related stages
-* limited observability of enforcement dynamics
-* lack of full access to internal audit and verification processes
-
-In addition, shared interpretative biases across analytical systems cannot be fully excluded.
+At the same time, the constrained analytical structure, run-level evidence filtering, divergence review, and validation procedures substantially reduce the likelihood that reconstructed mechanisms are artifacts of arbitrary interpretation or isolated model behavior.
 
 ---
 
@@ -91,19 +95,22 @@ In addition, shared interpretative biases across analytical systems cannot be fu
 
 Overall confidence is assessed as high at the structural level.
 
-Basis:
+The assessment is based on:
 
-* stable reproduction of the STRUCTURAL CORE
-* convergence across independent analytical runs
-* consistency between reproducibility, validation, and mechanism reconstruction
-* absence of competing mechanisms with comparable stability
-
-Observed convergence across independent runs and validation layers indicates a low likelihood that the identified mechanism is an artifact of a single run, isolated interpretation, or random analytical configuration.
+- stable reproduction of the Core Mechanism
+- recurrent reproduction of secondary mechanisms and feedback effects
+- consistency between run-level evidence, validation, and mechanism reconstruction
+- absence of competing mechanisms with comparable structural stability
 
 ---
 
 ## Conclusion
 
-The results indicate that the identified mechanism reflects stable structural properties of the system at the level of information architecture and verification constraints.
+The results indicate that the identified Core Mechanism reflects stable structural properties of the system at the level of information architecture and verification constraints.
 
-At the same time, downstream enforcement-related dynamics remain less stable and more context-dependent than the STRUCTURAL CORE.
+Secondary mechanisms and feedback effects also demonstrate recurrent reproduction across analytical runs and validation results, although with greater contextual variability than the Core Mechanism.
+
+The combined run-level evidence, validation, and constrained analytical structure of the pipeline support a high level of confidence in the reconstructed system behavior.
+
+---
+```
