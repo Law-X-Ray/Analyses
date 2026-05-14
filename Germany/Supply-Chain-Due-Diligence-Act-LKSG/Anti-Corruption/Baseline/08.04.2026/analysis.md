@@ -88,10 +88,10 @@ Secondary mechanisms explain variation and amplification effects, but do not det
 ### Mechanism 1
 
 regulatory pressure  
-→ strategic compliance behavior  
+→ adaptive compliance behavior  
 → selective implementation depth
 
-Legal obligations create incentives for procedural compliance strategies that may vary depending on internal prioritization, supplier visibility, and operational constraints.
+Legal obligations create incentives for procedural compliance adaptation that may vary depending on internal prioritization, supplier visibility, and operational constraints.
 
 **Status:** context-dependent behavioral mechanism.
 
@@ -117,9 +117,9 @@ detection gap
 → verification limitation  
 → detection gap
 
-The feedback loop is not required for the core mechanism to operate, but may amplify information asymmetry and verification limitations under conditions of constrained observability.
+The feedback loop is not required for the core mechanism to operate, but may reinforce information asymmetry and persistent verification limitations under conditions of constrained observability.
 
-**Status:** conditionally observable amplification mechanism supported by partial validation evidence.
+**Status:** conditionally observable operational reinforcement mechanism supported by partial validation evidence.
 
 ---
 
