@@ -49,7 +49,7 @@ regulatory pressure
 → information control (self-reporting)  
 → verification gap  
 → limited/selective enforcement  
-→ reinforcement of strategic compliance
+→ reinforcement of procedural compliance adaptation
 
 ---
 
@@ -95,7 +95,7 @@ Observed deviations primarily reflect:
 
 - variation in articulation of interpretative layers
 - structural compression of intermediate mechanism links
-- variation in downstream behavioral and enforcement-related extensions
+- variation in downstream operational and enforcement-related extensions
 
 In most cases, the primary informational and verification mechanism remains preserved despite variation in analytical articulation.
 
@@ -105,8 +105,8 @@ In most cases, the primary informational and verification mechanism remains pres
 
 The identified Core Mechanism demonstrates high reproducibility across independent analytical runs and synthesis stages.
 
-Observed variability primarily affects operational articulation and downstream behavioral extensions rather than the mechanism structure itself.
+Observed variability primarily affects operational articulation and downstream enforcement-related extensions rather than the mechanism structure itself.
 
-The observed convergence suggests that the reconstructed mechanism is unlikely to result from isolated analytical interpretation or prompt-specific artifacts.
+The observed convergence suggests that the reconstructed mechanism is unlikely to result from isolated analytical interpretation or prompt-specific or synthesis-induced artifacts.
 
 ---
