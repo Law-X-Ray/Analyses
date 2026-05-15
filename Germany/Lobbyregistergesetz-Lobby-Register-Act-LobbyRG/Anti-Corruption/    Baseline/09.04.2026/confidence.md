@@ -47,9 +47,9 @@ Core Mechanism:
 
 self-reporting  
 → information control  
-→ selective disclosure  
-→ verification limitation  
-→ detection gap
+→ selective minimization / optimization  
+→ limited substantive independent verification  
+→ detection gap  
 
 Basis:
 
@@ -77,7 +77,7 @@ Observed variability primarily affects articulation of enforcement-related stage
 
 Confidence in the feedback structure is assessed as high.
 
-Feedback effects demonstrate recurrent structural consistency across independent analyses and validation results while remaining structurally aligned with the reconstructed Core Mechanism.
+Feedback effects demonstrate recurrent reconstruction across independent analyses and partial operational confirmation through validation results while remaining structurally aligned with the reconstructed Core Mechanism.
 
 Observed variability primarily affects articulation and operational manifestation of reinforcing feedback dynamics.
 
