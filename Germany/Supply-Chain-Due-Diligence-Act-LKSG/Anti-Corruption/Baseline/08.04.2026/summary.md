@@ -61,7 +61,7 @@ Observed deviations are primarily associated with:
 
 - variation in articulation of interpretative layers
 - structural compression of intermediate mechanism links
-- downstream behavioral and enforcement-related extensions
+- downstream operational and enforcement-related extensions
 
 In most cases, the primary informational and verification mechanism remains preserved despite variation in analytical articulation.
 
@@ -100,7 +100,7 @@ The assessment is based on:
 - preservation of the mechanism under analytical variability
 - confirmation on observable system elements
 
-Observed convergence across independent runs and validation layers indicates that the identified mechanism is unlikely to be an artifact of aggregation or model-specific interpretation.
+Observed convergence across independent runs and validation layers indicates that the identified mechanism is unlikely to be solely the result of aggregation artifacts, synthesis-induced amplification, or model-specific interpretation.
 
 Detailed confidence assessment: [`confidence.md`](confidence.md)
 
@@ -108,7 +108,7 @@ Detailed confidence assessment: [`confidence.md`](confidence.md)
 
 ## Feedback Structure
 
-Feedback effects are present as secondary reinforcing dynamics but do not replace the primary structural mechanism.
+Operational reinforcement dynamics associated with the feedback structure are present as secondary system effects but do not replace the primary structural mechanism.
 
 Detailed mechanism reconstruction: [`analysis.md`](analysis.md)
 
