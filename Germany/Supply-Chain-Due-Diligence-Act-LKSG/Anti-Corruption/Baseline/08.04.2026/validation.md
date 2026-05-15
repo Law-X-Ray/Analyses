@@ -142,7 +142,7 @@ Detection and enforcement processes are activated through complaints, audit trig
 
 ### Action
 
-Supervisory responses are initiated based on identifiable signals, complaints from affected parties, NGO submissions, or observable reporting irregularities.
+Supervisory responses are initiated based on identifiable signals, complaints from affected parties, NGO submissions, or observable reporting inconsistencies.
 
 ### Outcome
 
@@ -212,7 +212,7 @@ Observed enforcement practice confirms the presence of supervisory activity whil
 
 ### Mechanism 1
 
-strategic compliance behavior  
+procedural compliance adaptation 
 → selective implementation depth  
 → uneven transparency visibility
 
