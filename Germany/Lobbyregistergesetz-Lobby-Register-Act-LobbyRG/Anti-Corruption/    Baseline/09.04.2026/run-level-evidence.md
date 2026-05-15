@@ -32,6 +32,8 @@ The assessment focuses on:
 
 ## Meta-Level Mechanisms
 
+The reconstructed mechanisms below represent dominant structural articulations emerging within each synthesis batch rather than mutually exclusive causal models.
+
 ### Batch 1
 
 self-reporting  
@@ -70,9 +72,9 @@ The following mechanism was reconstructed through cross-run synthesis and struct
 
 self-reporting  
 → information control  
-→ selective disclosure  
-→ verification limitation  
-→ detection gap
+→ selective minimization / optimization  
+→ limited substantive independent verification  
+→ incomplete detectability
 
 This mechanism serves as the primary analytical reconstruction used in the system analysis layer.
 
@@ -84,8 +86,8 @@ This mechanism serves as the primary analytical reconstruction used in the syste
 |---|---|
 | self-reporting | 30/30 |
 | information control | 29/30 |
-| selective disclosure | 24/30 |
-| verification limitation | 30/30 |
+| selective minimization / optimization | 24/30 |
+| limited substantive independent verification | 30/30 |
 | detection gap | 29/30 |
 
 ---
@@ -96,7 +98,7 @@ Observed deviations primarily reflect:
 
 - structural compression of secondary links
 - indirect articulation of detection-related stages
-- variation in downstream behavioral and enforcement-related extensions
+- variation in downstream behavioral, detectability-related, and oversight-related extensions
 
 In most cases, the primary informational mechanism remains preserved despite variation in analytical articulation.
 
@@ -108,6 +110,6 @@ The identified Core Mechanism demonstrates high reproducibility across independe
 
 Observed variability primarily affects operational articulation and downstream behavioral extensions rather than the mechanism structure itself.
 
-The observed convergence suggests that the reconstructed mechanism is unlikely to result from isolated analytical interpretation or prompt-specific artifacts.
+The observed convergence suggests that the reconstructed mechanism is unlikely to result primarily from isolated analytical interpretation or prompt-specific analytical artifacts.
 
 ---
