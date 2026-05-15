@@ -28,9 +28,9 @@ It reconstructs how the system operates at the mechanism level.
 
 self-reporting  
 → information control  
-→ selective disclosure  
-→ verification limitation  
-→ detection gap
+→ selective minimization / optimization  
+→ limited substantive independent verification  
+→ detection gap  
 
 **Outcome:** constrained detection capacity
 
@@ -65,13 +65,13 @@ These elements are treated as secondary or conditional mechanisms rather than co
 
 The reporting architecture places initial data generation under the control of regulated entities, creating structural control over disclosed information.
 
-### information control → selective disclosure
+### information control → selective minimization / optimization
 
-Control over information creates conditions for variation in disclosure scope and reporting granularity within formal reporting requirements.
+Control over information creates conditions for selective minimization, optimization of disclosure scope, and variation in reporting granularity within formal reporting requirements.
 
-### selective disclosure → verification limitation
+### selective minimization / optimization → limited substantive independent verification
 
-Incomplete or selectively structured information constrains the scope of independent verification.
+Selective minimization and optimization of disclosure constrain the completeness and effectiveness of substantive independent verification.
 
 ### verification limitation → detection gap
 
@@ -79,11 +79,13 @@ Limited verification capacity reduces the probability of identifying inconsisten
 
 ---
 
+
+
+## Secondary Mechanisms
+
 Secondary mechanisms explain variation and amplification effects, but do not determine the core structural outcome.
 
 ---
-
-## Secondary Mechanisms
 
 ### Mechanism 1
 
@@ -113,10 +115,10 @@ Partial or selectively structured disclosure may distort observable compliance v
 ## Feedback Structure
 
 detection gap  
-→ reduced risk of detection  
-→ selective disclosure  
-→ verification limitation  
-→ detection gap
+→ reduced perceived risk of detection  
+→ stronger incentives for selective minimization / optimization  
+→ further constraints on substantive independent verification  
+→ detection gap  
 
 The feedback loop is not required for the core mechanism to operate, but may amplify selective disclosure dynamics under conditions of limited verification.
 
@@ -143,7 +145,7 @@ The mechanism was derived through reproducible structural analysis and validated
 This indicates:
 
 - reduced likelihood of structural misidentification
-- high internal consistency
+- high structural consistency across synthesis layers
 - strong alignment with observable informational and verification structures
 
 ---
