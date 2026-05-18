@@ -1,72 +1,112 @@
 # Summary
 
-**Date:** 11.05.2026  
+**Date:** 18.05.2026  
 **Law:** EU Pact on Migration and Asylum  
-**Law version:** as of 13.04.2026  
+**Law version:** as of 15.05.2026  
 **Method:** Law-X-Ray Anti-Corruption Framework
 
 ---
 
 ## Description
 
-This file summarizes the structural analytical results derived through the Law-X-Ray Anti-Corruption Framework.
+This file summarizes the structural analytical results derived through the Law-X-Ray Anti-Corruption Framework. :contentReference[oaicite:0]{index=0}
 
-The analysis focuses on reconstruction of system-level procedural, informational, and verification dynamics observable within the regulatory architecture.
+The analysis focuses on reconstruction of system-level procedural, implementation, informational, and verification dynamics observable within the regulatory architecture.
 
 The analysis does not evaluate the law as a whole and does not assess legislative intent, policy objectives, or overall effectiveness.
 
-The assessment is limited to causal mechanism reconstruction, reproducibility analysis, and validation against observable system elements.
+The assessment is limited to:
+
+- causal mechanism reconstruction
+- reproducibility analysis
+- structural filtering
+- implementation and verification analysis
+- validation against observable system elements
 
 ---
 
 ## Key Finding
 
-The analysis indicates that procedural differentiation within the EU Pact on Migration and Asylum framework arises primarily from the interaction of regulatory complexity, discretionary procedural control, informational control, and verification limitations rather than from isolated implementation failures.
+The analysis indicates that differentiated procedural outcomes within the EU Pact on Migration and Asylum framework arise primarily from the interaction of:
+
+- regulatory complexity
+- fragmented implementation structures
+- frontline procedural discretion
+- screening and registration bottlenecks
+- information asymmetry
+- verification dependency
+- constrained verification capacity
+
+rather than solely from isolated implementation failures or weak formal oversight.
 
 In particular:
 
-- procedural classification and routing depend on operational interpretation and discretionary implementation
-- operational information and procedural visibility are substantially controlled by implementing authorities
-- verification depends heavily on accessible documentation and observable procedural signals
-- selective procedural application emerges as a consequence of procedural and informational architecture rather than solely from weak formal oversight
+- procedural categorization and routing depend on operational interpretation and frontline implementation structures
+- screening and registration procedures function as operational chokepoints for procedural classification and data generation
+- procedural visibility depends substantially on accessible operational documentation and implementation reporting
+- verification depends heavily on operationally generated procedural information and observable implementation signals
+- differentiated procedural outcomes emerge as a consequence of implementation and verification architecture rather than solely from isolated operational deviation
 
-The system reproduces procedural differentiation as a recurrent property of the regulatory architecture rather than merely as a consequence of isolated operational deviation.
+The system reproduces differentiated procedural outcomes as a recurrent property of the implementation architecture rather than merely as isolated implementation inconsistency.
 
 ---
 
 ## Core Mechanism
 
 regulatory complexity  
-→ interpretive asymmetry  
-→ discretionary procedural control  
-→ informational control  
-→ verification limitation  
-→ selective application  
+→ operational fragmentation  
+→ interpretive dependency  
+→ frontline discretion  
+→ selective categorization and procedural routing  
+→ reduced traceability  
+→ verification limitations  
+→ enforcement dilution
 
-**Result:** persistent procedural differentiation across operational environments.
+Informational branch:
+
+screening and registration bottlenecks  
+→ discretionary data production  
+→ information asymmetry  
+→ verification dependency
+
+**Result:** differentiated procedural outcomes under constrained verification conditions.
 
 ---
 
 ## Interpretation
 
-The system operates through a procedural and informational architecture in which procedural classification, routing, and verification depend substantially on operational interpretation, authority-controlled information, and accessible procedural documentation.
+The system operates through a fragmented procedural and informational implementation architecture in which:
 
-Within this structure, regulatory complexity initiates operational interpretation and procedural routing processes from which discretionary procedural control, informational control, and verification limitations emerge structurally.
+- procedural classification, registration, routing, and verification depend substantially on frontline implementation structures
+- implementation occurs across differentiated operational environments
+- procedural visibility depends on accessible documentation and observable implementation signals
+- verification structures depend substantially on operationally generated procedural information
+
+Within this structure, regulatory complexity produces fragmented implementation environments from which interpretive dependency, frontline discretion, procedural categorization, information asymmetry, and verification dependency emerge structurally.
+
+Post-synthesis filtering indicates that stronger adaptive and recursive governance interpretations were less structurally stable than the underlying implementation and verification architecture itself.
 
 ---
 
 ## Reproducibility
 
-The identified Core Mechanism demonstrates high reproducibility across independent analytical runs and synthesis stages.
+The identified Core Mechanism demonstrates high reproducibility across independent analytical runs, synthesis stages, and structural filtering procedures.
 
 Observed deviations are primarily associated with:
 
-- variation in articulation of interpretive layers
+- variation in articulation of implementation and informational layers
 - structural compression of intermediate mechanism links
-- terminological variation across procedural concepts
-- downstream operational and accountability-related extensions
+- terminological variation across procedural and operational concepts
+- differing levels of abstraction regarding verification and enforcement structures
+- adaptive and context-sensitive downstream extensions
 
-In most cases, the core procedural and informational mechanism remains preserved despite variation in analytical articulation.
+In earlier analytical runs, several implementation and informational layers were compressed into broader concepts such as:
+
+- interpretive asymmetry
+- informational control
+- procedural control
+
+Later synthesis and verification stages separated these structures into more granular implementation, informational, and verification components while preserving the underlying causal topology.
 
 Detailed reproducibility assessment: [`run-level-evidence.md`](run-level-evidence.md)
 
@@ -76,18 +116,22 @@ Detailed reproducibility assessment: [`run-level-evidence.md`](run-level-evidenc
 
 The identified mechanism was validated against:
 
-- operational screening and procedural routing structures
+- operational screening, registration, and procedural routing structures
 - publicly observable implementation practices
 - supervisory and monitoring procedures
-- observable procedural and verification architecture
+- observable implementation and verification architecture
 
 Confirmed elements include:
 
-- discretionary procedural routing
-- authority-controlled operational information
-- variability in procedural visibility
+- fragmented implementation structures
+- frontline procedural discretion
+- procedural categorization and routing
+- screening and registration bottlenecks
+- information asymmetry
+- verification dependency
 - verification limitations
-- dependence of procedural detectability on accessible documentation and observable signals
+
+Enforcement dilution and differentiated procedural outcomes remain partially observable because detectability depends substantially on accessible operational information, implementation reporting, and observable procedural signals.
 
 Detailed validation analysis: [`validation.md`](validation.md)
 
@@ -100,10 +144,12 @@ Detailed validation analysis: [`validation.md`](validation.md)
 The assessment is based on:
 
 - reproducibility of the Core Mechanism across independent runs
-- preservation of the mechanism under analytical variability
-- confirmation on observable system elements
+- preservation of causal topology under analytical variability
+- consistency between synthesis, validation, and run-level evidence
+- successful separation of invariant structural mechanisms from context-sensitive amplification layers
+- confirmation on observable implementation and verification structures
 
-Observed convergence across independent runs and validation layers indicates that the identified mechanism is unlikely to be an artifact of aggregation or model-specific interpretation.
+Observed convergence across independent runs, synthesis layers, and validation procedures indicates that the identified mechanism is unlikely to be an artifact of aggregation or model-specific interpretation.
 
 Detailed confidence assessment: [`confidence.md`](confidence.md)
 
@@ -112,6 +158,15 @@ Detailed confidence assessment: [`confidence.md`](confidence.md)
 ## Feedback Structure
 
 Feedback effects are present as secondary reinforcing dynamics but do not replace the primary structural mechanism.
+
+The most stable feedback effects relate to:
+
+- procedural fragmentation
+- uneven detectability
+- constrained verification visibility
+- operational information dependency
+
+More aggressive recursive or adaptive equilibrium interpretations demonstrated lower structural stability during synthesis filtering and verification review.
 
 Detailed mechanism reconstruction: [`analysis.md`](analysis.md)
 
@@ -126,9 +181,10 @@ Detailed mechanism reconstruction: [`analysis.md`](analysis.md)
   Run-level reproducibility assessment across independent analyses.
 
 - [`validation.md`](validation.md)  
-  Validation of identified mechanisms against observable system elements and supervisory structure.
+  Validation of identified mechanisms against observable implementation and verification structures.
 
 - [`confidence.md`](confidence.md)  
   Methodological confidence assessment and interpretation stability analysis.
 
 ---
+```
